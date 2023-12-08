@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mdshojib922@gmail.com**
 
-- 📄 Know about my experiences [its-shojib.github.io/Responsive-Resume/](its-shojib.github.io/Responsive-Resume/)
+- 📄 Know about my experiences [Resume]([its-shojib.github.io/Responsive-Resume/](https://drive.google.com/file/d/1tzBKe4PRSAPE05CX9HL8VBP5Kbq4qaXP/view?usp=sharing])
 
 - ⚡ Fun fact **I have a very good Sense of Humor🙂**
 
