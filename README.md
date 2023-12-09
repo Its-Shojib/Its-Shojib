@@ -34,8 +34,9 @@ Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-em
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=its-shojib&label=Profile%20views&color=0e75b6&style=flat" alt="its-shojib" /></p>
 <h1>Github Stats:</h1>
-<p><img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Its-Shojib&theme=algolia'/></p>
+
+<p align='center' width='full'><img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Its-Shojib&theme=highcontrast'/></p>
 <p align='center' width='full'><img src='https://github-readme-streak-stats.herokuapp.com?user=Its-Shojib&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=650'/></p>
 <p align='center' width='full'><img src="https://github-readme-stats.vercel.app/api?username=its-shojib&show_icons=true&locale=en&theme=highcontrast&card_width=650'" alt="its-shojib" /></p>
-<p align='center' width='full'><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Its-Shojib&theme=algolia" /></p>
-<p align='center' width='full'><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Its-Shojib&theme=algolia" /></p>
+<p align='center' width='full'><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Its-Shojib&theme=highcontrast" /></p>
+<p align='center' width='full'><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Its-Shojib&theme=highcontrast" /></p>
