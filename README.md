@@ -36,4 +36,4 @@ Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-em
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-shojib&show_icons=true&locale=en&layout=compact" alt="its-shojib" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=its-shojib&" alt="its-shojib" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Its-Shojib&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=491)](https://git.io/streak-stats)
