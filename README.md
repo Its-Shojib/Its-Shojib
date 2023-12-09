@@ -1,7 +1,7 @@
 ![logo](https://github.com/Its-Shojib/Its-Shojib/blob/main/Banner.png)
 <h3></h3> 
 <p align="center">
-Hi,<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="" width=40px>
+Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="" width=40px>
 </p>
 <h4 align="center">Seeking for a Developer??</h4>
 <h1 align="center">🏆Md Shojib Hossain🏆</h1>
@@ -18,13 +18,13 @@ Hi,<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-e
 
 - 🌱 I’m currently learning **TypeScript, NextJs, Redux**
 
-- 💬 Ask me about **Html, CSS, JavaScript, React, Node Js, MongoDB, Express**
+- 💬 Ask me about **Html, CSS, JavaScript, React, Node Js, MongoDB, Express js**
 
 - 📫 How to reach me **mdshojib922@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tzBKe4PRSAPE05CX9HL8VBP5Kbq4qaXP/view?usp=sharing)
 
-- ⚡ Fun fact **I am addicted to tea**
+- ⚡ Fun fact **I am addicted to TEA**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
