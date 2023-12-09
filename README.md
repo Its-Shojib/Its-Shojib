@@ -33,6 +33,5 @@ Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-em
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=its-shojib&label=Profile%20views&color=0e75b6&style=flat" alt="its-shojib" /></p>
 <h1>Github Stats:</h1>
 <p align='center' width='full'><img src='https://github-readme-streak-stats.herokuapp.com?user=Its-Shojib&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=650'/></p>
-<p><img align='center' src="https://github-readme-stats.vercel.app/api?username=its-shojib&show_icons=true&locale=en&theme=highcontrast&card_width=650'" alt="its-shojib" /></p>
-
-<p><img align='center' src="https://github-readme-stats.vercel.app/api/top-langs?username=its-shojib&show_icons=true&locale=en&layout=compact&theme=highcontrast&card_width=650" alt="its-shojib" /></p>
+<p align='center' width='full'><img src="https://github-readme-stats.vercel.app/api?username=its-shojib&show_icons=true&locale=en&theme=highcontrast&card_width=650'" alt="its-shojib" /></p>
+<p align='center' width='full'><img src="https://github-readme-stats.vercel.app/api/top-langs?username=its-shojib&show_icons=true&locale=en&layout=compact&theme=highcontrast&card_width=650" alt="its-shojib" /></p>
