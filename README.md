@@ -30,8 +30,12 @@ Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-em
 <a href="https://twitter.com/its_shojib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_shojib" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-shojib-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="its_shojib" height="30" width="40" /></a><a href="https://www.facebook.com/mdshojib.hossain.7927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="its_shojib.09" height="30" width="40" /></a><a href="https://www.instagram.com/its_shojib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_shojib" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/23070396/md-shojib-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1056299" height="30" width="40" /></a></p>
 <hr/>
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=its-shojib&label=Profile%20views&color=0e75b6&style=flat" alt="its-shojib" /></p>
 <h1>Github Stats:</h1>
+<p><img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Its-Shojib&theme=algolia'/></p>
 <p align='center' width='full'><img src='https://github-readme-streak-stats.herokuapp.com?user=Its-Shojib&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=650'/></p>
 <p align='center' width='full'><img src="https://github-readme-stats.vercel.app/api?username=its-shojib&show_icons=true&locale=en&theme=highcontrast&card_width=650'" alt="its-shojib" /></p>
-<p align='center' width='full'><img src="https://github-readme-stats.vercel.app/api/top-langs?username=its-shojib&show_icons=true&locale=en&layout=compact&theme=highcontrast&card_width=650" alt="its-shojib" /></p>
+<p align='center' width='full'><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Its-Shojib&theme=algolia" /></p>
+<p align='center' width='full'><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Its-Shojib&theme=algolia" /></p>
