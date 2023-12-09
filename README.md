@@ -33,10 +33,11 @@ Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-em
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=its-shojib&label=Profile%20views&color=0e75b6&style=flat" alt="its-shojib" /></p>
+
 <h1>Github Stats:</h1>
 
-<p align='center' width='full'><img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Its-Shojib&theme=highcontrast'/></p>
-<p align='center' width='full'><img src='https://github-readme-streak-stats.herokuapp.com?user=Its-Shojib&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=650'/></p>
+<p align='center'><img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Its-Shojib&theme=highcontrast'/></p>
+<p align='center'><img src='https://github-readme-streak-stats.herokuapp.com?user=Its-Shojib&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=400'/></p>
 
-<a align='center'><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Its-Shojib&theme=chartreuse_dark" /></a>
 <a align='center'><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Its-Shojib&theme=chartreuse_dark" /></a>
+<a align='center'><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Its-Shojib&theme=chartreuse_dark" /></a>
