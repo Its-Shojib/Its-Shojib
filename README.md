@@ -33,5 +33,5 @@ Hi,<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-e
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=its-shojib&label=Profile%20views&color=0e75b6&style=flat" alt="its-shojib" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=its-shojib&show_icons=true&locale=en" alt="its-shojib" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-shojib&show_icons=true&locale=en&layout=compact" alt="its-shojib" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-shojib&show_icons=true&locale=en&layout=compact" alt="its-shojib" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=its-shojib&" alt="its-shojib" /></p>
