@@ -31,13 +31,36 @@ Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-em
 <a href="https://linkedin.com/in/md-shojib-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="its_shojib" height="30" width="40" /></a><a href="https://www.facebook.com/mdshojib.hossain.7927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="its_shojib.09" height="30" width="40" /></a><a href="https://www.instagram.com/its_shojib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_shojib" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/23070396/md-shojib-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1056299" height="30" width="40" /></a></p>
 <hr/>
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=its-shojib&label=Profile%20views&color=0e75b6&style=flat" alt="its-shojib" /></p>
 
-<h1>Github Stats:</h1>
+##  🔥GitHub Activity Streak
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Its-Shojib&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="800" />
+  </a>
+</div>
+
+<hr/>
+##  📚Summary
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Its-Shojib&theme=highcontrast" width="400"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Its-Shojib&theme=highcontrast" width="400"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Its-Shojib&theme=highcontrast" width="400"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Its-Shojib&theme=highcontrast&utcOffset=8" width="400"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Its-Shojib&theme=highcontrast" width="900"/>
+</div>
+
+
+
+
+
+<!-- 
+
 
 <p align='center'><img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Its-Shojib&theme=highcontrast'/></p>
-<p align='center'><img src='https://github-readme-streak-stats.herokuapp.com?user=Its-Shojib&theme=highcontrast&date_format=j%20M%5B%20Y%5D&card_width=600'/></p>
 
 <a align='center'><img align='center' src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Its-Shojib&theme=chartreuse_dark" /></a>
-<a align='center'><img align='center' src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Its-Shojib&theme=chartreuse_dark" /></a>
+<a align='center'><img align='center' src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Its-Shojib&theme=chartreuse_dark" /></a> -->
