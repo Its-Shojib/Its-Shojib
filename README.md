@@ -51,18 +51,6 @@ Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-em
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Its-Shojib&theme=highcontrast" width="420"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Its-Shojib&show_icons=true&locale=en&layout=compact&theme=highcontrast" width="420"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Its-Shojib&theme=highcontrast&utcOffset=8" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Its-Shojib&show_icons=true&locale=en&layout=compact&theme=highcontrast" width="420" hight='300'/>
 </div>
-
-
-
-
-
-<!-- 
-
-
-<p align='center'><img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Its-Shojib&theme=highcontrast'/></p>
-
-<a align='center'><img align='center' src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Its-Shojib&theme=chartreuse_dark" /></a>
-<a align='center'><img align='center' src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Its-Shojib&theme=chartreuse_dark" /></a> -->
