@@ -23,7 +23,7 @@ Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-em
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zwRTP2VFcpHBFRHW-FHLle6R0fFjc1Kg/view?usp=sharing)
 
-- ⚡ Fun fact **I am addicted to TEA**
+- ⚡ Fun fact **I am addicted to TEA**☕
 <hr/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
