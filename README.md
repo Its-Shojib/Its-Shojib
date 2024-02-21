@@ -45,8 +45,8 @@ Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-em
 ##  📚Summary
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Its-Shojib&theme=highcontrast" width="900"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Its-Shojib&theme=highcontrast" width="420" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Its-Shojib&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Its-Shojib" width="420" height="200"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Its-Shojib&theme=highcontrast" width="420" height="250"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Its-Shojib&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Its-Shojib" width="420" height="250"/>
 
 
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Its-Shojib&theme=highcontrast" width="420"/> -->
