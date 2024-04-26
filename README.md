@@ -7,7 +7,7 @@ Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-em
 <h1 align="center">🏆Md Shojib Hossain🏆</h1>
 <h3 align="center">Full-Stack Web Developer(MERN) From Bangladesh</h3>
 <br/>
-<p align="left">FullStack Developer | MERN Specialist | 15+ Full-Stack Projects Completed | Ready to embark on the next challenge! Explore my GitHub for a showcase of innovation and creativity. Let's connect and discuss how I can contribute to your company's growth through impactful responsibilities. 💻🌱 #FullStack #MERNStack #HireMeNow</p>
+<p align="left">FullStack Developer | MERN Specialist | 20+ Full-Stack Projects Completed | Frontend Expert | Ready to embark on the next challenge! Explore my GitHub for a showcase of innovation and creativity. Let's connect and discuss how I can contribute to your company's growth through impactful responsibilities. 💻🌱 #FullStack #MERNStack #HireMeNow</p>
 <hr/>
 <h3 align="center">My Skilled Language and Tools:</h3>
 
