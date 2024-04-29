@@ -39,10 +39,7 @@ Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-em
 </p>
 <hr/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=its-shojib&label=Profile%20views&color=0e75b6&style=flat" alt="its-shojib" /></p>
-<!-- [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/masumraihan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-masum-raihan-35b22b1ab/)
-[![Facebook](https://img.shields.io/badge/Facebook-%23288EF1.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdmasum.raihan.378/)
-[![Telegram](https://img.shields.io/badge/Telegram-%231E92F3.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MasumRaihan1)-->
+<!-- [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/masumraihan)-->
 ##  🔥GitHub Activity Streak
 <div align="center">
   <a href="https://git.io/streak-stats">
