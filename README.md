@@ -36,10 +36,11 @@ Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-em
 <a href="https://wa.me/8801790407979" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="its_shojib" height="30" width="40" /></a>
 <a href="mailto:mdshojib922@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="its_shojib" height="30" width="40" /></a>
 <a href="https://t.me/Its_Shojib" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="its_shojib" height="36" width="40" /></a>
+<a href="https://discord.gg/its_shojib" target="_blank"><img align="center" src="https://logowik.com/content/uploads/images/discord-new-20218785.jpg" alt="its_shojib" height="36" width="40" /></a>
 </p>
 <hr/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=its-shojib&label=Profile%20views&color=0e75b6&style=flat" alt="its-shojib" /></p>
-<!-- [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/masumraihan)-->
+<!-- [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()-->
 ##  🔥GitHub Activity Streak
 <div align="center">
   <a href="https://git.io/streak-stats">
