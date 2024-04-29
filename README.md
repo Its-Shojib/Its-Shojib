@@ -34,10 +34,15 @@ Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-em
 <a href="https://www.instagram.com/its_shojib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_shojib" height="30" width="40" /></a> 
 <a href="https://stackoverflow.com/users/23070396/md-shojib-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1056299" height="30" width="40" /></a>
 <a href="https://wa.me/8801790407979" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="its_shojib" height="30" width="40" /></a>
+<a>[![Email](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg)](mailto:mdshojib922@gmail.com)</a>
 </p>
 <hr/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=its-shojib&label=Profile%20views&color=0e75b6&style=flat" alt="its-shojib" /></p>
-
+<!-- [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/masumraihan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-masum-raihan-35b22b1ab/)
+[![Facebook](https://img.shields.io/badge/Facebook-%23288EF1.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdmasum.raihan.378/)
+[![Telegram](https://img.shields.io/badge/Telegram-%231E92F3.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MasumRaihan1)
+[![Email](https://img.shields.io/badge/Email-%23DDDDDD.svg?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:mdmasumraihan1@gmail.com) -->
 ##  🔥GitHub Activity Streak
 <div align="center">
   <a href="https://git.io/streak-stats">
