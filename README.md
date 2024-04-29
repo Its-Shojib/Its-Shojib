@@ -37,7 +37,6 @@ Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-em
 <a href="mailto:mdshojib922@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="its_shojib" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/1071063701622366218" target="_blank"><img align="center" src="https://i.ibb.co/pZ2698n/image-removebg-preview-1.png" alt="its_shojib" height="36" width="50" /></a>
 <a href="https://t.me/Its_Shojib" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="its_shojib" height="36" width="40" /></a>
-
 </p>
 <hr/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=its-shojib&label=Profile%20views&color=0e75b6&style=flat" alt="its-shojib" /></p>
