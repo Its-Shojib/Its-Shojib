@@ -18,7 +18,7 @@ Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-em
 
 - 🌱 I’m currently learning **TypeScript, NextJs, Redux**
 
-- 💬 Ask me about **Html, CSS, JavaScript, React, Node Js, MongoDB, Express js**
+- 💬 Ask me about **Html, CSS, Tailwind, JavaScript, React, Node Js, MongoDB, Express js**
 
 - 📫 How to reach me **mdshojib922@gmail.com**
 
