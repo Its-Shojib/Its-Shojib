@@ -40,7 +40,6 @@ Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-em
 </p>
 <hr/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=its-shojib&label=Profile%20views&color=0e75b6&style=flat" alt="its-shojib" /></p>
-
 ##  🔥GitHub Activity Streak
 <div align="center">
   <a href="https://git.io/streak-stats">
