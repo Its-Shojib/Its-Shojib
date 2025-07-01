@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **mdshojib922@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M2LQETeZGHf-fA1EsLl2igwDeSIVsQCz/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VDj7vvu9UdPIdxGx3cOgiOTFBuJGt5d1/view?usp=drive_link)
 
 - ⚡ Fun fact **I am addicted to TEA and Coffee**☕
 <hr/>
